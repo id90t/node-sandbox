@@ -1,4 +1,5 @@
-## node-sandbox Boilerplate with ExpressJS
+Node.JS Boilerplate with Express
+--------------------------------
 
 A boilerplate for **Node.js** web applications
 
